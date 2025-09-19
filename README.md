@@ -10,6 +10,7 @@ Thanks for checking out this front-end coding challenge.
 
 **To do this challenge, you need a basic understanding of HTML and CSS.**
 
+** LIVE SITE ** : https://christiangbhub.github.io/qr_code_frontend_mentor_challenge/
 ## The challenge
 
 Your challenge is to build out this QR code component and get it looking as close to the design as possible.
